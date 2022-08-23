@@ -1,0 +1,19 @@
+{
+  "name": "raspberry-pi",
+  "version": "1.0.0",
+  "description": "Raspberry pi sensor data that is sent to firebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidlaurentiu85/raspberry-pi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidlaurentiu85/raspberry-pi/issues"
+  },
+  "homepage": "https://github.com/davidlaurentiu85/raspberry-pi#readme"
+}
